@@ -5,7 +5,7 @@ IIT Bombay
 Project Topic :  ASAP: A Multi Path Payment Channel Network Protocol for a Cryptocurrency network
 
 
-This is course project of cs762 where we analyzed various payment channel network (PCN) protocols and developed a new protocol for the PCN of Bitcoin.
+Analyzed various payment channel network (PCN) protocols and developed a new protocol for the PCN of Bitcoin.
 
 Designed and Introduced a new payment algorithm which is ASAP: Adaptive Split of a Payment.
 
